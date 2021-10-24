@@ -5,21 +5,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on embedded hardware development
-- 🌱 I’m currently learning and adopting the best techniques to make a project successful
-- 👯 I’m looking to collaborate on hardware dev (Software/hardware)
-- 🤔 I’m looking for contribute on learn anything that interest me
+- 🔭 I'm currently working on embedded hardware development
+- 🌱 I'm currently learning and adopting the best techniques to sail a project
+- 👯 I'm looking to collaborate on hardware dev (Software/hardware)
+- 🤔 I'm looking to contribute on learning anything that interests me
 - 💬 Ask me about engineering, sustainability
 - 📫 How to reach me: manoj@electrolance.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm keen in plant science
+- ⚡ Fun fact: I'm keen on plant science
 -->
 
-- 🔭 I’m currently working on embedded hardware development
-- 🌱 I’m currently learning and adopting the best techniques to make a project successful
-- 👯 I’m looking to collaborate on hardware dev (Software/hardware) or hobby
-- 🤔 I’m looking for contribute on anything that interest me
+- 🔭 I'm currently working on embedded hardware development
+- 🌱 I'm currently learning and adopting the best techniques to make a project successful
+- 👯 I'm looking to collaborate on hardware dev (Software/hardware) or hobby
+- 🤔 I'm looking to contribute to anything that interests me
 - 💬 Ask me about engineering, sustainability, productivity
 - 📫 How to reach me: manoj@electrolance.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm in keen in plant science and meditate occasionaly 
+- ⚡ Fun fact: I'm keen on plant science and meditate occasionally 
