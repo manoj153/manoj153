@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm currently working on embedded hardware development
-- 🌱 I'm currently learning and adopting the best techniques to make a project successful
-- 👯 I'm looking to collaborate on hardware dev (Software/hardware) or hobby
-- 🤔 I'm looking to contribute to anything that interests me
-- 💬 Ask me about engineering, sustainability, productivity
+- 🌱 I'm currently learning and adopting the best techniques to sail a project
+- 👯 I'm looking to collaborate on hardware dev (Software/hardware)
+- 🤔 I'm looking to contribute on learning anything that interests me
+- 💬 Ask me about engineering, sustainability
 - 📫 How to reach me: manoj@electrolance.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I'm keen on plant science and meditate occasionally 
+- ⚡ Fun fact: I'm keen on plant science
