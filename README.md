@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on embedded hardware development
-- 🌱 I'm currently learning and adopting the best techniques to sail a project
 - 👯 I'm looking to collaborate on hardware dev (Software/hardware)
 - 🤔 I'm looking to contribute on learning anything that interests me
 - 💬 Ask me about engineering, sustainability
